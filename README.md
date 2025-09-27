@@ -1,2 +1,1 @@
-Eliminar archivo vaciándolo
 
